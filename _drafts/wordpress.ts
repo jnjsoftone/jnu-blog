@@ -1,4 +1,5 @@
 // https://github.com/scottgonzalez/node-wordpress
+// https://github.com/WP-API/node-wpapi
 
 // * class
 // name, url, apiKey
